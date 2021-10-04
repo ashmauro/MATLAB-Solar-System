@@ -1,4 +1,4 @@
 # MATLAB-Solar-System
 
-# Created by: Ashley Mauro
-# MATLAb code to simulate the solar system.
+Created by: Ashley Mauro
+MATLAB code to simulate the solar system.
